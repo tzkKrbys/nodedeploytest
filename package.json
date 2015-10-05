@@ -1,5 +1,5 @@
 {
-  "name": "httpRequest",
+  "name": "nodedeploytest",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -14,5 +14,17 @@
     "morgan": "~1.5.3",
     "serve-favicon": "~2.2.1",
     "validator": "^3.40.1"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzkKrbys/nodedeploytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzkKrbys/nodedeploytest/issues"
+  },
+  "homepage": "https://github.com/tzkKrbys/nodedeploytest#readme",
+  "description": ""
 }
